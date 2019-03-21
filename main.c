@@ -29,7 +29,7 @@
 #include <time.h>
 #include "ecdh.h"
 
-
+//test
 
 /* pseudo random number generator with 128 bit internal state... probably not suited for cryptographical usage */
 typedef struct
